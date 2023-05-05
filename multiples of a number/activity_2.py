@@ -1,4 +1,6 @@
 
+""" how to find multiples of a number in python"""
+# Using a for loop
 
 num = 5  # the number whose multiples we want to find
 limit = 20  # the maximum value we want to consider
@@ -14,6 +16,7 @@ print(multiples)
 
 
 
+# Using a list comprehension
 
 num = 3
 limit = 100
